@@ -1,15 +1,15 @@
 {
-  "network": "unknown",
+  "network": "canto",
   "nounsToken": {
-    "address": "0x2aD2F5DA36d83D7BfC9e0A2BFfC4Df6701AdBA7f",
-    "startBlock": 2650391
+    "address": "0xBd15eD394C4591D9E615CE8c44AA25F6F46037eE",
+    "startBlock": 2664134
   },
   "nounsAuctionHouse": {
-    "address": "0xC2C3f80414257d806b92aAD41F7ca0A7A0fE1496",
-    "startBlock": 2650391
+    "address": "0x6E342529b6FC5D2d269056C619569620538A8fD1",
+    "startBlock": 2664134
   },
   "nounsDAO": {
-    "address": "0x2F9292DB1Af16A31D85451D3862FB2c2140C417e",
-    "startBlock": 2650391
+    "address": "0xc6c4ab0EC1248bA9461606AC00b10CFd763fcFF4",
+    "startBlock": 2664134
   }
 }
