@@ -1,15 +1,15 @@
 {
   "network": "canto",
   "nounsToken": {
-    "address": "0xBd15eD394C4591D9E615CE8c44AA25F6F46037eE",
-    "startBlock": 2664134
+    "address": "0x6F76c991F896B115AAaA9c40f240C6FBB5e25913",
+    "startBlock": 2675042
   },
   "nounsAuctionHouse": {
-    "address": "0x6E342529b6FC5D2d269056C619569620538A8fD1",
-    "startBlock": 2664134
+    "address": "0x157B312d199031afC82D77a34269D3Da51436afd",
+    "startBlock": 2675042
   },
   "nounsDAO": {
-    "address": "0xc6c4ab0EC1248bA9461606AC00b10CFd763fcFF4",
-    "startBlock": 2664134
+    "address": "0x4A97Ab43916f844A7C5Aa39BaAc6ece3103C7231",
+    "startBlock": 2675042
   }
 }
